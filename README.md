@@ -1,14 +1,14 @@
 # Factor Disentanglement
 
-### (Supervised) Regression between x (image) and z (5-dim true factors, each [-1,+1]-scaled/normalized)
+## (Supervised) Regression between x (image) and z (5-dim true factors, each [-1,+1]-scaled/normalized)
 
 
-#### Setup (brief)
+### Setup (brief)
 - The same encoder model for $x \to z$ regression
 - The same decoder model for $z \to x$ regression
 
 
-#### Latent traversal
+### Latent traversal
 
 [ $x$ | $z_1$ | $z_2$ | $z_3$ | $z_4$ | $z_5$ ]
 
