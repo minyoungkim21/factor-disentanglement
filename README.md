@@ -10,6 +10,8 @@
 
 ### 2) Latent traversal
 
+4 examples
+
   [ x | z1 | z2 | z3 | z4 | z5 ]
 
 ![fixed_ellipse](https://user-images.githubusercontent.com/44901665/48269786-6a59b200-e406-11e8-9d45-33e3d725e2dd.gif) <br />
