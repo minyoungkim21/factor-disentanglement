@@ -20,3 +20,11 @@
 
 ![random_img](https://user-images.githubusercontent.com/44901665/48269797-70e82980-e406-11e8-8477-920e8caf136e.gif)
 
+
+### Losses and Metrics (At iter# = 108K)
+
+loss_z: 0.278   (\sum_j ||z_j - z*_j|, note: zj \in [-1,+1])
+loss_x: 15.478  (\sum_i CE(x_i; x*_i); note: dim(x) = 64*64 = 4096)
+
+metric1 = 0.9950
+metric2 = 0.9850
