@@ -20,8 +20,8 @@
 
 ### 3) Losses and Metrics (At iter# = 108K)
 
-loss_z:  0.278 \ \ \ \ (\sum_j ||z_j - z*_j|, note: zj \in [-1,+1])  <br />
-loss_x: 15.478 \ \ \ \ (\sum_i CE(x_i; x*_i); note: dim(x) = 64*64 = 4096)
+loss_z:  0.278 &npsp; &npsp; (\sum_j ||z_j - z*_j|, &npsp; note: zj \in [-1,+1])  <br />
+loss_x: 15.478 &npsp; &npsp; (\sum_i CE(x_i; x*_i); &npsp; note: dim(x) = 64*64 = 4096)
 
 metric1 = 0.9950  <br />
 metric2 = 0.9850
